@@ -3,12 +3,12 @@ package com.dyc.git;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hellp Git!");
-		System.out.println("ÕâÊÇ·ÖÖ§");
-		System.out.println("ÕâÊÇmasterÌí¼ÓµÄ");
-		System.out.println("ÕâÊÇĞÂµÄ·ÖÖ§");
-		System.out.println("ÕâÊÇµÄĞŞ¸Ä");
-		System.out.println("ÕâÊÇmasterÌí¼ÓµÄ");
-
+		System.out.println("è¿™æ˜¯åˆ†æ”¯");
+		System.out.println("è¿™æ˜¯masteræ·»åŠ çš„");
+		System.out.println("è¿™æ˜¯æ–°çš„åˆ†æ”¯");
+		System.out.println("è¿™æ˜¯çš„ä¿®æ”¹");
+		System.out.println("è¿™æ˜¯masteræ·»åŠ çš„");
+		System.out.println("è¿™æ˜¯masteråœ¨çº¿æ·»åŠ çš„");
 	}
 
 }
