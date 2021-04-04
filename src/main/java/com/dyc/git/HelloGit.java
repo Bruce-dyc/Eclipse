@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("这是的修改");
 		System.out.println("这是master添加的");
 		System.out.println("这是master在线添加的");
+		System.out.println("这是master在线第二次添加的");
 	}
 
 }
